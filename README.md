@@ -1,9 +1,18 @@
 # Experiment 21
 # Aim
+Searching sorting 
 # Apparatus 
 VS code 
 # Theory 
+Linear search is the simplest searching algorithm. It checks each element of a list sequentially until the target element is found or the list ends.
+* Time Complexity: O(n), where n is the number of elements in the array.
+* Advantages: Works on both sorted and unsorted data.
+* Disadvantages: Inefficient for large datasets
 
+Binary search is a more efficient algorithm that works only on sorted arrays. It divides the array into halves, compares the target element with the middle element, and reduces the search range by half with each step.
+* Time Complexity: O(log n), where n is the number of elements in the array.
+* Advantages: Much faster for large, sorted datasets.
+* Disadvantages: Only works on sorted arrays.
 # Codes 
 ~~~
 #include <iostream>
