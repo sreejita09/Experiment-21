@@ -1,6 +1,6 @@
 # Experiment 21
 # Aim
-Searching sorting 
+Linear and binary sorting 
 # Apparatus 
 VS code 
 # Theory 
